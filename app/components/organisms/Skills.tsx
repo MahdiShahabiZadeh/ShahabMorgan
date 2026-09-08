@@ -7,6 +7,7 @@ import TsPic from "@/public/assets/images/Tools/Ts.svg";
 import ReactPic from "@/public/assets/images/Tools/React.svg";
 import NodeJsPic from "@/public/assets/images/Tools/NodeJs.svg";
 import AngularPic from "@/public/assets/images/Tools/Angular.svg";
+import NestPic from "@/public/assets/images/Tools/Nest.svg";
 import {motion} from "motion/react";
 
 export default function Skills() {
@@ -33,6 +34,9 @@ export default function Skills() {
         </Skill>
         <Skill color={"rgb(131, 205, 41)"} logo={AngularPic}>
           Angular
+        </Skill>
+        <Skill color={"rgb(131, 205, 41)"} logo={NestPic}>
+          NestJs
         </Skill>
         <Skill color={"rgb(131, 205, 41)"} logo={NodeJsPic}>
           NodeJs

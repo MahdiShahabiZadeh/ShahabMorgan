@@ -115,14 +115,13 @@ export default function Portfolio() {
       projectPicture: fencing360Pic,
       title: "Fencing 360 Academy",
       tolls: [reactPic, nextJsPic, tsPic, swiperPic, taillwindPic, gaspPic],
-      projectLink: "https://fc360.ir/",
+      projectLink: "https://fencing360-react.vercel.app/",
     },
     {
       projectPicture: odPic,
       title: "Online Developers Project Mangmnet App",
       tolls: [angularPic, taillwindPic],
-      projectLink:
-        "https://staging.app.onlinedevelopers.ir/profile/empty-profile",
+      projectLink: "https://app.onlinedevelopers.ir/auth/login",
     },
     {
       projectPicture: viragoharPic,

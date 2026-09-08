@@ -14,7 +14,11 @@ export default function Heading() {
         Web Developer
       </Text>
       <div className="flex gap-8">
-        <Button href={"https://i.ibb.co/bgZmgcy/Resume-6.png"}>
+        <Button
+          href={
+            "https://uploadkon.ir/uploads/ee8408_26f1ef1b62-b9f6-4d0c-87db-37a5c6f96a44.png"
+          }
+        >
           <div>CV</div>
         </Button>
         <Button href={"https://github.com/ShahabMorgan"}>

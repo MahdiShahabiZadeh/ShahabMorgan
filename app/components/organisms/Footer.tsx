@@ -23,7 +23,6 @@ export default function Fotter() {
             >
               mahdishabi9@gmail.com
             </Contact>
-            
           </div>
         </div>
       </div>
